@@ -115,3 +115,4 @@
 
 #KONTRIBUTOR
 * Masukkan Nama Kontributor Disini dengan format [nama_lengkap](LinkedIn_Page)
+[Rosa Dewi Puspita](https://www.linkedin.com/mwlite/in/rosa-dewi-puspita-9073591a6)
